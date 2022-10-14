@@ -21,7 +21,7 @@
 <br>
 name: Jean Woodly Estime <br>
 located_in: Rio de Janeiro, Brazil<br>
-current_job: Personnel Department Assistant<br>
+current_job: Personnel Department Assistant <br>
 education: <br>
 [
 "Self-Taught Developper",<br>
