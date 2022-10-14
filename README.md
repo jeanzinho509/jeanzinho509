@@ -28,7 +28,7 @@ education:
 "Studying in Computer Science",
 ]
 
-fields_of_interests:
+fields of interests:
   [
     "Web Development",
     "Data Science",
