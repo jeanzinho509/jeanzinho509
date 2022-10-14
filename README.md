@@ -19,24 +19,24 @@
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195920521-934c77b3-1055-4ec4-a2f8-a78da32bbb7f.png"/>
  </a>
 <br>
-name: Jean Woodly Estime
-located_in: Rio de Janeiro, Brazil
-current_job: Personnel Department Assistant
-education:
+name: Jean Woodly Estime <br>
+located_in: Rio de Janeiro, Brazil<br>
+current_job: Personnel Department Assistant<br>
+education: <br>
 [
-"Self-Taught Developper",
-"Studying in Computer Science",
+"Self-Taught Developper",<br>
+"Studying in Computer Science",<br>
 ]
 
-fields of interests:
+fields of interests:<br>
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Web Development",<br>
+    "Data Science",<br>
+    "Machine Learning",<br>
+    "UI/UX",<br>
+    "Game Development",<br>
+    "DevOps",<br>
   ]
-  currently_learning: ["React, PHP, Cibersecurity"]
-  2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-  hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"]
+  currently_learning: ["React, PHP, Cibersecurity"]<br>
+  2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]<br>
+  hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"]<br>
