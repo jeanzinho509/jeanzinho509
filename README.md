@@ -4,7 +4,9 @@
  <a href="https://www.instagram.com/jeanzinho509/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-
+<a href="https://www.linkedin.com/in/jeanwoodlyestime/">
+ <img height="50" src="https://user-images.githubusercontent.com/100792438/195917997-784d8511-61c5-4e50-b3ed-650fa3908128.png"/>
+ </a> <br>
 name: Jean Woodly Estime
 located_in: Rio de Janeiro, Brazil
 current_job: Personnel Department Assistant
