@@ -11,7 +11,7 @@ current_job: Personnel Department Assistant
 education:
 [
 "Self-Taught Developper",
-"Bachelor's studying in Computer Science",
+"Studying in Computer Science",
 ]
 
 fields_of_interests:
