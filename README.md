@@ -28,7 +28,7 @@ education: <br>
 "Studying in Computer Science",<br>
 ]
 
-fields of interests:<br>
+fields of interests: <br>
   [
     "Web Development",<br>
     "Data Science",<br>
@@ -37,6 +37,6 @@ fields of interests:<br>
     "Game Development",<br>
     "DevOps",<br>
   ]
-  currently_learning: ["React, PHP, Cibersecurity"]<br>
-  2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]<br>
-  hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"]<br>
+  currently_learning: ["React, PHP, Cibersecurity"] <br>
+  2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."] <br>
+  hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
