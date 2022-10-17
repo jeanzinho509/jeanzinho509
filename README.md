@@ -25,8 +25,8 @@ current_job: Personnel Department Assistant <br>
 education: <br>
 [
 "Self-Taught Developper",<br>
-"Studying in Computer Science",<br>
-]
+"Studying in Computer Science"]<br>
+
 
 fields of interests: <br>
   [
@@ -35,8 +35,7 @@ fields of interests: <br>
     "Machine Learning",<br>
     "UI/UX",<br>
     "Game Development",<br>
-    "DevOps",<br>
-  ]
+    "DevOps"]<br>
   currently_learning: ["React, PHP, Cibersecurity"] <br>
   2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
