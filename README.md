@@ -49,4 +49,4 @@ fields of interests: <br>
 <img src="https://user-images.githubusercontent.com/100792438/196501047-1d1ebcaf-2fb8-421b-95cf-bf90532872ba.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196501541-726849aa-78e7-4a9a-ad42-bd8004511c41.png" widht="45" height="45"/>
 </p>
-![Snake animation](https://github.com/jeanzinho509/jeanzinho509/blob/output/github-contribution-grid-snake.svg)
+
