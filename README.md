@@ -6,6 +6,7 @@
   Let's Connect and have a Chat!💬
   </h1>
   </p>
+  
   <a href="https://www.facebook.com/jeanwoodly.estime/">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195919804-2e551314-312f-4ed0-8e20-40c9262f59ac.png"/>
  </a>
@@ -18,7 +19,13 @@
  <a href="https://twitter.com/jeanzinho509">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195920521-934c77b3-1055-4ec4-a2f8-a78da32bbb7f.png"/>
  </a>
-<br>
+  <p align="center">
+ <img src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif"/>
+
+  <p>
+  
+<h2>
+A little bit about myself</h2>
 name: Jean Woodly Estime <br>
 located_in: Rio de Janeiro, Brazil <br>
 current_job: Personnel Department Assistant <br>
