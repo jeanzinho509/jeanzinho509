@@ -27,8 +27,8 @@
 <h2>
 A little bit about myself</h2>
 name: Jean Woodly Estime <br>
-born in: Haiti, but
-living_in: Rio de Janeiro, Brazil<br>
+born on: Haiti, but
+living_on: Rio de Janeiro, Brazil<br>
 current_job: Personnel Department Assistant <br>
 education: <br>
 [
