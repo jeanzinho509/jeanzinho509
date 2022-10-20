@@ -1,12 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<p align="center">
+
   <h1> 
-  Let's Connect and have a Chat!💬
+  <p align="center">Let's Connect and have a Chat!💬 </p>
   </h1>
-  </p>
-  
+ 
+  <h2>
+  <p align="center">
   <a href="https://www.facebook.com/jeanwoodly.estime/">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195919804-2e551314-312f-4ed0-8e20-40c9262f59ac.png"/>
  </a>
@@ -19,13 +20,14 @@
  <a href="https://twitter.com/jeanzinho509">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195920521-934c77b3-1055-4ec4-a2f8-a78da32bbb7f.png"/>
  </a>
+ </p>
+ </h2>
   <p align="center">
  <img src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif"/>
-
   <p>
   
-<h2>
-A little bit about myself</h2>
+<h3>
+A little bit about myself</h3>
 name: Jean Woodly Estime <br>
 born on: Haiti, but
 living_at: Rio de Janeiro, Brazil<br>
