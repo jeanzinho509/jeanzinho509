@@ -19,9 +19,9 @@
  <a href="https://twitter.com/jeanzinho509">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195920521-934c77b3-1055-4ec4-a2f8-a78da32bbb7f.png"/>
  </a>
- <a href="https://web.whatsapp.com/send?phone=5521990623372&text&app_absent=0"/>
- <img height="50" src="https://user-images.githubusercontent.com/100792438/197191363-e9f09c3e-3646-4b49-a623-0a4423cf4ce8.png"/>
 
+ <img height="50" src="https://user-images.githubusercontent.com/100792438/197191363-e9f09c3e-3646-4b49-a623-0a4423cf4ce8.png"/>
+  <meta http-equiv="refresh" content="0; URL=https://web.whatsapp.com/send?phone=5521990623372&text&app_absent=0" />
  </p>
   <p align="center">
  <img src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif"/>
