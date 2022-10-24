@@ -36,7 +36,7 @@ education: <br>
 [
 "Self-Taught Developper",<br>
 "Studying in Computer Science"]<br>
-
+ "i'm a polyglot speak 6 languages (French, English, Português, Spanish, Italian, Haitian creole)
 
 fields of interests: <br>
   [
