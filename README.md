@@ -25,7 +25,7 @@
   <p align="center">
  <img src="https://media.giphy.com/media/ThrM4jEi2lBxd7X2yz/giphy.gif"/>
   <p>
-  
+ <div> 
 <h2>
 A little bit about myself</h2>
 name: Jean Woodly Estime <br>
@@ -36,8 +36,7 @@ education: <br>
 [
 "Self-Taught Developper",<br>
 "Studying in Computer Science"]<br>
- "i'm a polyglot languages that i speak (French, English, Português, Spanish, Italian, Haitian creole)
-
+ "i'm a polyglot languages that i speak (French, English, Português, Spanish, Italian, Haitian creole) <br>
 fields of interests: <br>
   [
     "Web Development",<br>
@@ -49,8 +48,8 @@ fields of interests: <br>
   currently learning: ["Computer science, Cybersecurity, Nodejs, PHP, React"] <br>
   2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
+  
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196493544-84ba1a70-1d6e-4e86-b515-c8e6e9c94ef0.png" width"45"  height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196495118-85db89ef-13b8-4a82-8704-17028e70e87b.png" width="45" height="45"/>
@@ -61,5 +60,9 @@ fields of interests: <br>
 <img src="https://user-images.githubusercontent.com/100792438/197229591-cb82de12-373c-4405-a01f-0a3d5cb5d1a5.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/197229770-6bf447a1-698d-4e2e-b411-74e3cdfed4be.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/197230368-da99e0f1-f285-49ce-8d81-eb4248271978.png" width="45" height="45"/>
-</p>
-
+   </div>
+<footer>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeOut&type=waving&color=gradient&height=100"/>
+  </p>
+    </footer>
