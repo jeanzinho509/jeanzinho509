@@ -30,7 +30,7 @@
 A little bit about myself</h2>
 name: Jean Woodly Estime <br>
 born on: <a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJ6e-0lp_7AhXTOrkGHcVRA8gQFnoECA8QAQ&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHaiti&usg=AOvVaw0sNH-_zuycsO54olPQXPE5">Haiti</a> , 
-but living_at: <a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjL9sjnlp_7AhU3CLkGHThuAYgQFnoECBwQAQ&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRio_de_Janeiro&usg=AOvVaw01FORFgJ8Irio7rPXo8uoD">Rio de Janeiro, Brazil</a> <br>
+but living in: <a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjL9sjnlp_7AhU3CLkGHThuAYgQFnoECBwQAQ&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRio_de_Janeiro&usg=AOvVaw01FORFgJ8Irio7rPXo8uoD">Rio de Janeiro, Brazil</a> <br>
 current_job: Personnel Department Assistant <br>
 education: <br>
 [
