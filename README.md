@@ -49,7 +49,7 @@ fields of interests: <br>
   2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
   
-  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+  <h2> 🚀 &nbsp;Some Tools I Have Used and Learned or Learning</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196493544-84ba1a70-1d6e-4e86-b515-c8e6e9c94ef0.png" width"45"  height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196495118-85db89ef-13b8-4a82-8704-17028e70e87b.png" width="45" height="45"/>
