@@ -45,8 +45,8 @@ fields of interests: <br>
     "UI/UX",<br>
     "Game Development",<br>
     "DevOps"]<br>
-  currently learning: ["Computer science, Cybersecurity, Nodejs, PHP, React"] <br>
-  2022 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."] <br>
+  currently learning: ["Computer science, Cybersecurity, Nodejs, Python, React"] <br>
+  2023 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
   
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned or Learning</h2>
