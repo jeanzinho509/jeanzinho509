@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/jeanwoodly.estime/">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/195919804-2e551314-312f-4ed0-8e20-40c9262f59ac.png"/>
  </a>
- <a href="https://www.instagram.com/jeanzinho509/">
+ <a href="https://www.instagram.com/gringohti/">
   <img height="50" src="https://user-images.githubusercontent.com/100792438/195919936-ef986bf9-12aa-454d-af96-a8749cc8d741.png"/>
 </a>
 <a href="https://www.linkedin.com/in/jeanwoodlyestime/">
