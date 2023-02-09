@@ -44,7 +44,8 @@ fields of interests: <br>
     "Machine Learning",<br>
     "UI/UX",<br>
     "Game Development",<br>
-    "DevOps"]<br>
+    "DevOps" <br>
+   "Cybersecurity"]<br>
   currently learning: ["Computer science, Cybersecurity, Nodejs, Python, React"] <br>
   2023 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
