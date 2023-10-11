@@ -62,6 +62,15 @@ fields of interests: <br>
 <img src="https://user-images.githubusercontent.com/100792438/197229770-6bf447a1-698d-4e2e-b411-74e3cdfed4be.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/197230368-da99e0f1-f285-49ce-8d81-eb4248271978.png" width="45" height="45"/>
    </div>
+
+   <h2> GitHub Stats </h2>
+<div align="left">
+  <a href="https://github.com/maluojuara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanzinho509&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=eca7ba"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanzinho509&hide_title=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
 <footer>
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&animation=fadeOut&type=waving&color=gradient&height=100"/>
