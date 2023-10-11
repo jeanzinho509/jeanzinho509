@@ -65,7 +65,7 @@ fields of interests: <br>
 
    <h2> GitHub Stats </h2>
 <div align="left">
-  <a href="https://github.com/maluojuara">
+  <a href="https://github.com/jeanzinho509">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanzinho509&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=eca7ba"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanzinho509&hide_title=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
