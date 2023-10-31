@@ -23,7 +23,7 @@
  <img height="50" src="https://user-images.githubusercontent.com/100792438/197191363-e9f09c3e-3646-4b49-a623-0a4423cf4ce8.png"/>
  </p>
   <p align="center">
- <img src="<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/1C8bHHJturSx2" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2">via GIPHY</a></p>"/>
+ <img src=""https://giphy.com/gifs/the-it-crowd-chris-odowd-1C8bHHJturSx2">
   <p>
  <div> 
 <h2>
