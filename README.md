@@ -17,7 +17,7 @@
  <img height="50" src="https://user-images.githubusercontent.com/100792438/196501962-adb603b7-b080-4a8a-ba26-972ea12bf0b9.png"/>
  </a> 
  <a href="https://twitter.com/jeanzinho509">
- <img height="50" src="https://user-images.githubusercontent.com/100792438/195920521-934c77b3-1055-4ec4-a2f8-a78da32bbb7f.png"/>
+ <img height="50" src="https://i.ibb.co/S5kfd2Y/Anota-o-2023-11-06-211148-removebg-preview.png" alt"X"/>
  </a>
  <a href="https://web.whatsapp.com/send?phone=5521990623372&text&app_absent=0"/>
  <img height="50" src="https://user-images.githubusercontent.com/100792438/197191363-e9f09c3e-3646-4b49-a623-0a4423cf4ce8.png"/>
