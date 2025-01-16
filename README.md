@@ -47,7 +47,7 @@ fields of interests: <br>
     "DevOps" <br>
    "Cybersecurity"]<br>
   currently learning: ["Computer science, Cybersecurity, Nodejs, Python, React"] <br>
-  2023 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."] <br>
+  2025 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
   
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned or Learning</h2>
