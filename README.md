@@ -19,8 +19,6 @@
  <a href="https://twitter.com/jeanzinho509">
  <img height="50" src="https://i.ibb.co/S5kfd2Y/Anota-o-2023-11-06-211148-removebg-preview.png" alt"X"/>
  </a>
- <a href="https://web.whatsapp.com/send?phone=5521990623372&text&app_absent=0"/>
- <img height="50" src="https://user-images.githubusercontent.com/100792438/197191363-e9f09c3e-3646-4b49-a623-0a4423cf4ce8.png"/>
  </p>
   <p align="center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJoYm9tYjk5MGplMHdhdHBpNHI2YmhkY2FqOXF2c256YTE3OGwyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif">
