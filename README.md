@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/jeanwoodlyestime/">
  <img height="50" src="https://user-images.githubusercontent.com/100792438/196501962-adb603b7-b080-4a8a-ba26-972ea12bf0b9.png"/>
  </a> 
- <a href="https://twitter.com/jeanzinho509">
+ <a href="https://x.com/jeanzinho509">
  <img height="50" src="https://i.ibb.co/S5kfd2Y/Anota-o-2023-11-06-211148-removebg-preview.png" alt"X"/>
  </a>
  </p>
