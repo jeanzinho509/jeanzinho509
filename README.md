@@ -37,14 +37,14 @@ education: <br>
  "i'm a polyglot languages that i speak (French, English, Português, Spanish, Italian, Haitian creole) <br>
 fields of interests: <br>
   [
-    "Web Development",<br>
+    "Back-end Development",<br>
     "Data Science",<br>
     "Machine Learning",<br>
     "UI/UX",<br>
     "Game Development",<br>
     "DevOps" <br>
    "Cybersecurity"]<br>
-  currently learning: ["Computer science, Cybersecurity, Nodejs, Python, React"] <br>
+  currently learning: ["Computer science, Nodejs, Python, React"] <br>
   2025 Goals: ["Create 5+ Projects and learn at least 5 new Technologies."] <br>
   hobbies: ["Gaming", "Cinema", "Football", "Art", "Comedy"] <br>
   
