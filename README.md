@@ -50,7 +50,7 @@ fields of interests: <br>
   
   <h2> 🚀 &nbsp;Some Tools I Have Used and Learned or Learning</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/100792438/196493544-84ba1a70-1d6e-4e86-b515-c8e6e9c94ef0.png" width"45"  height="45"/>
+<img src="https://user-images.githubusercontent.com/100792438/196493544-84ba1a70-1d6e-4e86-b515-c8e6e9c94ef0.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196495118-85db89ef-13b8-4a82-8704-17028e70e87b.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196496296-83ace559-0c24-4a71-8ae1-855cd01dd4bf.png" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/100792438/196496892-19df54e2-12d8-485d-8993-cf3dd01472f4.png" width="45" height="45"/>
