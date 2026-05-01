@@ -8,7 +8,7 @@ A little bit about myself</h2>
 name: Jean Woodly Estime born on: <a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiJ6e-0lp_7AhXTOrkGHcVRA8gQFnoECA8QAQ&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FHaiti&usg=AOvVaw0sNH-_zuycsO54olPQXPE5">Haiti</a> , but living in: <a href="https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjL9sjnlp_7AhU3CLkGHThuAYgQFnoECBwQAQ&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRio_de_Janeiro&usg=AOvVaw01FORFgJ8Irio7rPXo8uoD">Rio de Janeiro, Brazil</a> <br>
 education: [
 Self-Taught Developper", "Studying in Computer Science] 
-  i'm a polyglot languages that i speak (French, English, Português, Spanish, Italian, Haitian creole) <br>
+  i'm a polyglot, i speak (French, English, Português, Spanish, Italian, Haitian creole) <br>
 fields of interests: [
     "Back-end Development",  "Data Science",  "Machine Learning", "UI/UX",  "Game Development", "DevOps" "Cybersecurity"]<br>
   currently learning: ["Computer science, Nodejs, Python, React"] 
