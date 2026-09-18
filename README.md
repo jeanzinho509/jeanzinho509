@@ -116,6 +116,7 @@ The project will include:
 ## 🎓 Education
 
 **Bachelor's Degree in Computer Science**
+
 Centro Universitário IBMR — 2026
 
 ---
