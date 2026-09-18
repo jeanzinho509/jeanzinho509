@@ -55,7 +55,7 @@ My goal is simple: build software that demonstrates real engineering practices �
 
 ## ⭐ Featured Projects
 
-### 🏋️ FitPlan — AI Fitness Planner
+### 🏋️ FitPlan — AI-Assisted Fitness & Progress Planner
 
 Full-stack fitness planning and progress tracking platform built around structured training data, progress analytics and personalized planning.
 
